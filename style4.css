@@ -1,0 +1,39 @@
+#header{
+    text-align: center;
+    font-family: Verdana;
+    font-size: 2em;
+    background-color: brown;
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 7px;
+    color: white;
+}
+
+#header  button{
+    align-items: baseline
+}
+
+#section{
+    text-align: center;
+    background-color: red;
+    font-size: 2em;
+    color: black;   
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 5px;
+}
+
+#footer{
+    text-align: center;
+    background-color: green;
+    color: black;
+    font-size: 1em;  
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 5px;
+    
+}
+
+#footer p{
+    font-size:2em;
+}
